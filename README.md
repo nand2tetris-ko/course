@@ -1,7 +1,8 @@
 ## 📘 개요
-- 이 저장소는 저서 The Elements of Computing Systems를 기반으로 구성된 [온라인 강의](https://www.coursera.org/learn/build-a-computer)의 한국어 강의를 위한 토론과 질문 공간입니다.
-- 본 강의는 원저자의 정식 허가를 받아 비상업적, 교육적 목적으로 운영되고 있으며, 이를 바탕으로 모든 참여자는 함께 학습하고 성장하게 됩니다.
+- 이 저장소는 [The Elements of Computing Systems](https://mitpress.mit.edu/9780262539807/the-elements-of-computing-systems/)를 기반으로 구성된 한국어 강의를 위한 토론과 질문 공간입니다.
+- 참여자분들은 약 6주 동안 기본적인 논리 게이트부터 시작하여 동작하는 컴퓨터까지 만들어가는 과정을 거칩니다. 이를 통해 하드웨어 설계와 소프트웨어 구현이 어떻게 유기적으로 연결되는지를 학습하며 컴퓨터과학의 구조를 입체적으로 이해할 수 있습니다.
 - 제작지원
+  - 본 강의는 원저자의 정식 허가를 받아 비상업적, 교육적 목적으로 운영되고 있습니다.
   - 저자: Shimon Schocken, Noam Nisan
   - 웹사이트: https://www.nand2tetris.org
 
