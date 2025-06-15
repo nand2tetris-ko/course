@@ -5,6 +5,7 @@
   - 본 강의는 원저자의 정식 허가를 받아 비상업적, 교육적 목적으로 운영되고 있습니다.
   - 저자: Shimon Schocken, Noam Nisan
   - 웹사이트: https://www.nand2tetris.org
+  - Web IDE: https://nand2tetris.github.io/web-ide/chip
 
 </br>
 
